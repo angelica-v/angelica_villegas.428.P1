@@ -17,6 +17,7 @@ public class timeTeller : MonoBehaviour
     void UpdateTime()
     {
     timeTextObject.GetComponent<TextMeshPro>().text = System.DateTime.Now.ToString("h:mm tt");
-       
+    
+
     }
 }
