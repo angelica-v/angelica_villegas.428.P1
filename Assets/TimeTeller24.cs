@@ -5,19 +5,19 @@ using TMPro;
 using UnityEngine.Networking;
 
 
-public class timeTeller : MonoBehaviour
+public class TimeTeller24 : MonoBehaviour
 {
-    public GameObject timeTextObject;
+    public GameObject timeTextObject24;
 
     string url = "https://worldtimeapi.org/api/timezone/America/New_York";
     
     // Start is called before the first frame update & every 10 seconds after
     void Start()
     {
-    InvokeRepeating("GetDataFromWeb", 0f, 10f);   
+        InvokeRepeating("GetDataFromWeb", 0f, 10f);   
     }
 
-    void GetDataFromWeb()
+     void GetDataFromWeb()
    {
 
        StartCoroutine(GetRequest(url));
@@ -42,25 +42,9 @@ public class timeTeller : MonoBehaviour
 
             	int startTime = webRequest.downloadHandler.text.IndexOf("datetime",0);
                 string temp = webRequest.downloadHandler.text.Substring(startTime+22, 5);
-                double hour = float.Parse(temp.Substring(0,2));
-                string minute = temp.Substring(3,2);
 
-                string amOrPm = "";
-                Debug.Log(":\nHour: " + hour);
 
-               if ((hour / 12) >= 1) {
-                    amOrPm = "PM";
-                } else {
-                    amOrPm = "AM";
-                }
-
-                double hour12 = hour % 12; 
-
-                if (hour12 == 0){
-                    hour12 = 12;
-                }
-
-                timeTextObject.GetComponent<TextMeshPro>().text = hour12.ToString()  + ":" + minute + " "  + amOrPm;            
+                timeTextObject24.GetComponent<TextMeshPro>().text = temp ;
             }
         }
     }
