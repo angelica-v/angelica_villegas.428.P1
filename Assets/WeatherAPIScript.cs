@@ -7,15 +7,15 @@ public class WeatherAPIScript : MonoBehaviour
 {
     public GameObject weatherTextObject;
         // add your personal API key after APPID= and before &units=
-       string url = "http://api.openweathermap.org/data/2.5/weather?lat=33.39&lon=-104.5&APPID=7ed88b3a92b4b9502188358afdba92c6&units=imperial";
+       string url = "http://api.openweathermap.org/data/2.5/weather?lat=28.4186&lon=-81.5812&APPID=7ed88b3a92b4b9502188358afdba92c6&units=imperial";
 
    
     void Start()
     {
 
-    // wait a couple seconds to start and then refresh every 900 seconds
+    // wait a couple seconds to start and then refresh every 600 seconds (10 minutes)
 
-       InvokeRepeating("GetDataFromWeb", 2f, 900f);
+       InvokeRepeating("GetDataFromWeb", 2f, 600f);
    }
 
    void GetDataFromWeb()
