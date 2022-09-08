@@ -7,7 +7,7 @@ public class WeatherAPICelsius : MonoBehaviour
 {
     public GameObject weatherTextObject2;
         // add your personal API key after APPID= and before &units=
-       string url = "http://api.openweathermap.org/data/2.5/weather?lat=28.4186&lon=-81.5812&APPID=7ed88b3a92b4b9502188358afdba92c6&units=metric";
+       string url = "http://api.openweathermap.org/data/2.5/weather?lat=34.1184&lon=-118.3004&APPID=7ed88b3a92b4b9502188358afdba92c6&units=metric";
 
    
     void Start()
