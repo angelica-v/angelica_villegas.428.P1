@@ -41,10 +41,10 @@ public class TimeTeller24 : MonoBehaviour
                 Debug.Log(":\nReceived: " + webRequest.downloadHandler.text);
 
             	int startTime = webRequest.downloadHandler.text.IndexOf("datetime",0);
-                string temp = webRequest.downloadHandler.text.Substring(startTime+22, 5);
+                string time = webRequest.downloadHandler.text.Substring(startTime+22, 5);
 
 
-                timeTextObject24.GetComponent<TextMeshPro>().text = temp ;
+                timeTextObject24.GetComponent<TextMeshPro>().text = time ;
             }
         }
     }
