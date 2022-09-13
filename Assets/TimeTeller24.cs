@@ -9,7 +9,7 @@ public class TimeTeller24 : MonoBehaviour
 {
     public GameObject timeTextObject24;
 
-    string url = "https://worldtimeapi.org/api/timezone/America/Los_Angeles";
+    string url = "https://worldtimeapi.org/api/timezone/Asia/Tokyo";
     
     // Start is called before the first frame update & every 10 seconds after
     void Start()

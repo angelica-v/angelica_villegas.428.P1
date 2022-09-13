@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+    <asset>
+        <contributor>
+            <author>Kyle A.</author>
+            <authoring_tool>SketchUp 21.0.339</authoring_tool>
+        </contributor>
+        <created>2022-05-29T19:19:13Z</created>
+        <modified>2022-05-29T19:19:13Z</modified>
+        <unit meter="0.0254" name="inch" />
+        <up_axis>Z_UP</up_axis>
+    </asset>
+    <library_cameras>
+        <camera id="ID1" name="skp_camera_Last_Saved_SketchUp_View">
+            <optics>
+                <technique_common>
+                    <orthographic>
+                        <xmag>1</xmag>
+                        <aspect_ratio>0</aspect_ratio>
+                        <znear>1</znear>
+                        <zfar>1000</zfar>
+                    </orthographic>
+                </technique_common>
+            </optics>
+        </camera>
+    </library_cameras>
+    <library_visual_scenes>
+        <visual_scene id="ID2">
+            <node name="SketchUp">
+                <node name="skp_camera_Last_Saved_SketchUp_View">
+                    <matrix>0.8363037 0.2022754 -0.5095889 -285.9035 -0.5482665 0.3085428 -0.7773064 -452.1555 -2.775558e-17 0.9294547 0.3689363 242.0628 0 0 0 1</matrix>
+                    <instance_camera url="#ID1" />
+                </node>
+                <node id="ID3" name="spirea_single">
+                    <matrix>0.01953595 0.08847585 0.03496503 20.98658 -0.0910026 0.02778464 -0.01946079 29.53124 -0.02329475 -0.02423251 0.07433362 3.186554 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID79" name="spirea_single">
+                    <matrix>0.09655755 -3.122502e-17 6.938894e-18 16.1866 5.030698e-17 0.09655755 -6.938894e-18 23.97362 2.081668e-17 -1.734723e-17 0.08110834 1.652042 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID80" name="spirea_noflower">
+                    <matrix>-0.4276349 -0.2155849 0.1676172 35.43186 0.2651449 -0.2532619 0.3507144 25.10325 -0.0548936 0.3218697 0.2739326 -1.160733 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID104" name="spirea_noflower">
+                    <matrix>0.4898025 -0.1590356 0.1549247 22.85207 0.2109423 0.4504031 -0.2045505 19.90094 -0.05818081 0.2075415 0.3969903 0.5288753 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID105" name="spirea_noflower">
+                    <matrix>0.3977781 -0.2629848 0.1281773 25.6377 0.2845343 0.3980811 -0.06625386 17.61911 -0.05716119 0.106876 0.3966712 5.316928 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID106" name="spirea_noflower">
+                    <matrix>0.07697688 -0.3173646 0.3883276 31.05004 0.4972404 0.0994896 -0.01725744 18.21603 -0.0548936 0.3218697 0.2739326 -1.160733 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID107" name="spirea_single">
+                    <matrix>0.06977675 0.06847973 0.02721345 20.986 -0.07324482 0.0685615 0.01527601 26.29645 -0.006784831 -0.02532133 0.08111509 1.412911 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID108" name="spirea_single">
+                    <matrix>0.0904029 -0.01172511 0.003901531 22.48519 0.009998032 0.08633273 0.02778638 26.46259 -0.006100241 -0.02276641 0.07293058 1.425551 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID109" name="spirea_noflower">
+                    <matrix>0.02285023 0.1513509 -0.5533829 30.45159 -0.568921 -0.06540846 -0.04138113 32.20195 -0.06211759 0.461982 0.1237877 -0.8095793 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID110" name="spirea_noflower">
+                    <matrix>-0.02216276 -0.177732 0.4747253 21.90533 0.5026751 0.05355351 0.04351746 22.80812 -0.0548936 0.3966609 0.1459428 -0.8463435 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID111" name="spirea_single">
+                    <matrix>-0.1010966 0.04369377 -0.008889597 30.09553 -0.0445889 -0.09906703 0.02015541 30.76875 3.122502e-17 0.01850415 0.09095079 0.3558325 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID112" name="spirea_single">
+                    <matrix>0.07373017 -0.06808176 -0.01508565 21.73736 0.06926371 0.0689567 0.02731943 22.84978 -0.006784831 -0.02532133 0.08111509 1.412911 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID113" name="spirea_single">
+                    <matrix>0.06407485 -0.07017092 1.214306e-17 16.43209 0.07017092 0.06407485 -6.938894e-18 22.99687 6.938894e-18 -1.040834e-17 0.07982009 1.652042 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID114" name="spirea_single">
+                    <matrix>0.03932364 -0.07956961 -0.02154968 17.06598 0.08211496 0.03570294 0.01801369 18.37646 -0.006106347 -0.0227892 0.07300358 1.342761 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID115" name="spirea_single">
+                    <matrix>-0.08829397 -0.05200912 0 28.50055 0.05200912 -0.08829397 5.20417e-18 22.43032 1.040834e-17 -1.387779e-17 0.08607756 1.652042 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID116" name="spirea_noflower">
+                    <matrix>-0.5689601 -0.04198879 -0.06467775 28.93197 -0.02185724 -0.3740132 0.4350841 29.38023 -0.06211759 0.3642278 0.3099821 -2.315577 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID117" name="spirea_single">
+                    <matrix>-0.09324935 0.04003487 -0.0007798132 30.2171 -0.03921935 -0.09171387 -0.01868817 28.68232 -0.006784831 -0.01417125 0.08378546 0.4344502 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID118" name="spirea_single">
+                    <matrix>-0.01797464 -0.08402565 -0.01466482 22.82798 0.08529577 -0.01770698 -0.003090363 20.6457 1.040834e-17 -0.012589 0.07213173 3.32166 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID119" name="spirea_noflower">
+                    <matrix>-0.3667904 0.1888348 -0.2953816 24.50183 -0.3444391 -0.273788 0.2526774 33.17281 -0.0548936 0.3218697 0.2739326 -1.160733 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID120" name="spirea_noflower">
+                    <matrix>0.4416658 -0.03009874 0.2479302 16.17163 0.2410492 0.1831685 -0.4071714 23.58169 -0.0548936 0.3966609 0.1459428 -0.8463435 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID121" name="spirea_noflower">
+                    <matrix>0.4396502 0.2034153 -0.1509102 15.31507 -0.2447062 0.2631362 -0.3582209 23.07787 -0.0548936 0.3218697 0.2739326 -1.160733 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID122" name="spirea_noflower">
+                    <matrix>0.43489 -0.1971779 0.3188313 25.2241 0.3675105 0.3205773 -0.3030313 18.47716 -0.06211759 0.3642278 0.3099821 -2.315577 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID123" name="spirea_noflower">
+                    <matrix>0.5002204 0.01395958 0.08383716 17.46894 0.05434133 0.3323004 -0.3795622 17.84573 -0.0548936 0.3218697 0.2739326 -1.160733 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID124" name="spirea_noflower">
+                    <matrix>-0.1225782 0.3068178 -0.3850733 19.67954 -0.4880041 -0.1283794 0.05305371 35.9439 -0.0548936 0.3218697 0.2739326 -1.160733 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID125" name="spirea_single">
+                    <matrix>0.05900297 0.08211132 6.938894e-18 20.20835 -0.08211132 0.05900297 -9.540979e-18 32.32191 1.387779e-17 -6.938894e-18 0.08493401 1.652042 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID126" name="spirea_single">
+                    <matrix>-0.1008081 -0.005689229 -0.01020802 30.73385 0.008445722 -0.09673565 -0.02949109 22.41626 -0.006784831 -0.02532133 0.08111509 1.412911 0 0 0 1</matrix>
+                    <instance_node url="#ID4" />
+                </node>
+                <node id="ID127" name="spirea_noflower">
+                    <matrix>-0.1563888 0.583651 -1.665335e-16 19.68133 -0.583651 -0.1563888 -7.632783e-17 37.38426 5.551115e-17 2.775558e-17 0.5075616 0.3893894 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID128" name="spirea_noflower">
+                    <matrix>-0.1621904 0.5794362 -0.02685045 14.16416 -0.5716557 -0.1643979 -0.09463698 35.57131 -0.08263271 5.551115e-17 0.4991438 1.526916 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+                <node id="ID129" name="spirea_noflower">
+                    <matrix>0.1938052 0.369074 -0.3948237 17.58121 -0.535381 0.07371129 -0.193896 28.45136 -0.06211759 0.3642278 0.3099821 -2.315577 0 0 0 1</matrix>
+                    <instance_node url="#ID81" />
+                </node>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <library_nodes>
+        <node id="ID4" name="spirea_single">
+            <node id="ID5" name="spirea_leaf">
+                <matrix>-0.0453434 -0.742483 -0.1930161 61.06868 0.6819459 -0.1275774 0.3305542 82.2429 -0.3514058 -0.1517737 0.6663865 152.1722 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID21" name="spirea_leaf">
+                <matrix>0.2861695 -0.5668791 -0.06011785 59.72445 0.5601427 0.2671324 0.147443 73.38341 -0.1058594 -0.1189428 0.6176612 127.9074 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID22" name="instance_1">
+                <matrix>0.3441 1.387779e-17 -5.551115e-17 60.19329 2.775558e-17 0.62 2.220446e-16 1.844505 -9.714451e-17 -3.053113e-16 0.62 1.421085e-14 0 0 0 1</matrix>
+                <instance_node url="#ID23" />
+            </node>
+            <node id="ID42" name="spirea_leaf">
+                <matrix>0.4512553 -0.5280572 0.2247971 59.67245 0.2162528 0.4213343 0.5556273 34.88219 -0.5316135 -0.2768438 0.4168382 53.33406 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID43" name="spirea_leaf">
+                <matrix>0.4396581 0.6265016 -0.06920066 59.7216 -0.5673174 0.4300926 0.2894193 42.59793 0.2746706 -0.1144916 0.7085478 61.75741 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID44" name="spirea_leaf">
+                <matrix>-0.3502721 0.4891646 -0.01142447 60.64033 -0.4892977 -0.3501924 0.007489681 103.1851 -0.0005601582 0.01364918 0.6015949 225.2605 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID45" name="spirea_leaf">
+                <matrix>0.5918384 0.3230017 0.003200757 59.48991 -0.3230176 0.5918094 0.005864503 100.0231 1.004662e-08 -0.006681111 0.6742169 211.414 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID46" name="spirea_leaf">
+                <matrix>0.3727862 -0.6192318 0.05663394 60.71212 0.591767 0.3735756 0.1894153 98.40082 -0.1909642 -0.0511687 0.6975238 200.5228 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID47" name="spirea_leaf">
+                <matrix>-0.6977683 -0.09001384 -0.1950036 60.46477 0.02304415 -0.690413 0.236238 79.16921 -0.2135365 0.2196291 0.6627026 144.1897 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID48" name="spirea_leaf">
+                <matrix>0.5197737 0.4716397 0.2009996 59.53447 -0.5017889 0.5266949 0.06172392 75.4253 -0.1051317 -0.1820934 0.6991415 133.0096 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID49" name="spirea_leaf">
+                <matrix>-0.3376481 0.6830641 0.100047 61.85354 -0.6785612 -0.3488735 0.09183763 65.22639 0.1270458 -0.04798853 0.7564051 103.7519 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID50" name="spirea_leaf">
+                <matrix>0.03117961 0.6258829 -0.1189852 59.93273 -0.5670929 0.08155355 0.2803813 92.90473 0.2903317 0.09207972 0.5604354 176.8722 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID51" name="spirea_leaf">
+                <matrix>-0.4354619 -0.4718844 -0.2491477 60.8133 0.4557604 -0.4961562 0.1431364 96.09159 -0.2775463 -0.07436831 0.6259504 190.8774 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID52" name="spirea_leaf">
+                <matrix>0.6815053 -0.1429435 -0.1609997 61.05984 0.1886022 0.6541373 0.2175703 86.20727 0.103841 -0.2499495 0.6614722 159.1706 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID53" name="spirea_leaf">
+                <matrix>0.1502462 -0.6677081 -0.07725646 61.01722 0.6695016 0.1416224 0.07802069 103.7224 -0.05975143 -0.09211707 0.6799417 233.4981 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID54" name="spirea_leaf">
+                <matrix>0.6968884 0.1607656 0.1466647 59.84179 -0.1905347 0.6884809 0.1506656 60.38629 -0.1051317 -0.1820934 0.6991415 94.71472 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID55" name="spirea_flower">
+                <matrix>0.9378214 0.03809076 -0.3450219 59.95843 -0.3471182 0.1029112 -0.9321579 114.7213 2.59257e-09 0.993961 0.1097343 283.1036 0 0 0 1</matrix>
+                <instance_node url="#ID56" />
+            </node>
+            <node id="ID76" name="spirea_leaf">
+                <matrix>-0.4452706 -0.004652781 -0.0003090374 60.34765 0.004644572 -0.4451561 0.01010417 111.2531 -0.000414517 0.01010039 0.4451802 265.7969 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID77" name="spirea_leaf">
+                <matrix>0.58725 -6.938894e-17 -1.387779e-16 62.04453 2.775558e-17 0.5849251 0.05220318 106.1739 -8.326673e-17 -0.05220318 0.5849251 241.788 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID78" name="spirea_leaf">
+                <matrix>-0.04026598 0.6723005 -0.03168179 61.0525 -0.5844331 -0.01918447 0.3356829 108.1096 0.3338109 0.04750832 0.583889 252.8699 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+        </node>
+        <node id="ID6" name="spirea_leaf">
+            <node id="ID7" name="instance_0">
+                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                <instance_node url="#ID8" />
+            </node>
+        </node>
+        <node id="ID8" name="Plane.003">
+            <instance_geometry url="#ID9">
+                <bind_material>
+                    <technique_common>
+                        <instance_material symbol="Material2" target="#ID10">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                        <instance_material symbol="Material3" target="#ID16">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                    </technique_common>
+                </bind_material>
+            </instance_geometry>
+        </node>
+        <node id="ID23" name="spirea_stem">
+            <node id="ID24" name="instance_2">
+                <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+                <instance_node url="#ID25" />
+            </node>
+        </node>
+        <node id="ID25" name="Plane.002">
+            <instance_geometry url="#ID26">
+                <bind_material>
+                    <technique_common>
+                        <instance_material symbol="Material2" target="#ID10">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                        <instance_material symbol="Material3" target="#ID16">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                    </technique_common>
+                </bind_material>
+            </instance_geometry>
+            <instance_geometry url="#ID34">
+                <bind_material>
+                    <technique_common>
+                        <instance_material symbol="Material2" target="#ID10">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                        <instance_material symbol="Material3" target="#ID16">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                    </technique_common>
+                </bind_material>
+            </instance_geometry>
+        </node>
+        <node id="ID56" name="spirea_flower">
+            <node id="ID57" name="instance_3">
+                <matrix>-9.28186 -2.948571 -0.6197438 2.086194 -0.4182385 -0.7269454 9.722536 0.3268926 -2.983828 9.27408 0.5650581 -3.979039e-13 0 0 0 1</matrix>
+                <instance_node url="#ID58" />
+            </node>
+        </node>
+        <node id="ID58" name="Component_1">
+            <instance_geometry url="#ID59">
+                <bind_material>
+                    <technique_common>
+                        <instance_material symbol="Material2" target="#ID60">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                        <instance_material symbol="Material3" target="#ID70">
+                            <bind_vertex_input semantic="UVSET0" input_semantic="TEXCOORD" input_set="0" />
+                        </instance_material>
+                    </technique_common>
+                </bind_material>
+            </instance_geometry>
+        </node>
+        <node id="ID81" name="spirea_noflower">
+            <node id="ID82" name="instance_4">
+                <matrix>-0.0513815 0.04001261 -0.008140657 7.436764 -0.02266194 -0.09072072 0.01845734 15.94639 0 0.02017285 0.0991527 0.01588444 0 0 0 1</matrix>
+                <instance_node url="#ID23" />
+            </node>
+            <node id="ID83" name="spirea_leaf">
+                <matrix>0.09808116 0.03941875 0.03822182 10.92032 -0.04627219 0.1014631 0.01409874 7.797375 -0.02955723 -0.02803662 0.1047615 33.60821 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID84" name="spirea_leaf">
+                <matrix>-0.09095506 0.06684209 0.02939673 10.66192 -0.06938862 -0.09374274 -0.001540515 8.28354 0.02274316 -0.01868929 0.1128641 28.21593 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID85" name="spirea_leaf">
+                <matrix>0.02155684 0.1100524 0.007643526 10.82272 -0.1096378 0.02050927 0.01391352 7.93619 0.0122278 -0.01012376 0.1112774 40.67255 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID86" name="spirea_leaf">
+                <matrix>-0.1149764 0.02281727 -0.02135655 10.02372 -0.0211461 -0.1167498 -0.01089171 10.22314 -0.02301244 -0.006720051 0.1167115 17.06778 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID87" name="spirea_leaf">
+                <matrix>0.02073293 -0.09582215 -0.005709721 10.95248 0.09464762 0.01943211 0.0175659 7.7944 -0.01600979 -0.00921133 0.09645298 39.33769 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID88" name="spirea_leaf">
+                <matrix>0.004958028 -0.1238811 -0.01894395 9.917025 0.1253088 0.004634224 0.002491129 9.65146 -0.001760602 -0.01902575 0.1239552 18.67052 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID89" name="spirea_leaf">
+                <matrix>-0.04506603 -0.08940355 0.02850329 11.03003 0.08956886 -0.05041178 -0.01650613 7.90475 0.0279795 0.01737923 0.09874963 31.26476 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID90" name="spirea_leaf">
+                <matrix>-0.04644575 0.1096767 -0.003181923 8.946391 -0.07718804 -0.03511571 -0.08369705 12.73425 -0.07798142 -0.030565 0.08474068 9.620207 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID91" name="spirea_leaf">
+                <matrix>-0.00519166 0.1034487 0.01038238 10.44421 -0.1039603 -0.005294874 0.0007725809 9.31722 0.001295856 -0.01033013 0.103576 22.79896 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID92" name="spirea_leaf">
+                <matrix>-0.1058695 -0.06429017 0.01970794 9.326399 0.06223366 -0.1076017 -0.01669806 11.85278 0.02546762 -0.004316065 0.1227304 11.21835 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID93" name="spirea_leaf">
+                <matrix>0.08488876 0.07002898 -0.03866131 10.09334 -0.07401994 0.09014068 0.0007500631 9.846776 0.03032825 0.02398868 0.1100436 19.95318 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID94" name="spirea_leaf">
+                <matrix>-0.01496704 0.1172457 -0.005391019 10.95781 -0.1168257 -0.01540453 -0.01068057 7.753287 -0.01128547 0.003971883 0.1177136 35.22588 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID95" name="spirea_leaf">
+                <matrix>-0.1092206 -0.009950069 -0.008951997 11.10201 0.008287498 -0.1080671 0.01900246 7.920632 -0.01050997 0.01818714 0.1080141 37.02042 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID96" name="spirea_leaf">
+                <matrix>0.05539511 0.104628 0.04140452 10.49664 -0.1072599 0.0630482 -0.0158179 8.654698 -0.03400975 -0.02842318 0.1173262 26.96774 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID97" name="spirea_leaf">
+                <matrix>0.1084827 -0.03399957 0.03566282 10.49327 0.03622517 0.1134903 -0.001995974 8.906585 -0.03339977 0.01266003 0.1136683 25.59113 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID98" name="spirea_leaf">
+                <matrix>-0.1086166 -0.03404397 -0.03520989 10.53736 0.03606231 -0.1135504 -0.001455848 9.182847 -0.03313967 -0.01198406 0.1138176 23.68136 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID99" name="spirea_leaf">
+                <matrix>-0.087689 0.03843443 -0.004311112 10.71869 -0.03867546 -0.08714252 0.009774599 7.756614 -5.20417e-18 0.01068309 0.09524192 42.07807 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID100" name="spirea_leaf">
+                <matrix>-0.03608764 -0.1022508 0.01872804 10.84624 0.09810581 -0.0400553 -0.02964954 7.868607 0.03436867 0.006973505 0.1042998 43.91331 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID101" name="spirea_leaf">
+                <matrix>0.06679362 -0.02816666 -0.005147024 10.98462 0.02863294 0.06574402 0.01179485 7.839898 8.482864e-05 -0.01286868 0.07152363 46.08293 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID102" name="spirea_leaf">
+                <matrix>-0.06892853 -0.04140876 0.006417826 10.80399 0.04190304 -0.06814288 0.01037784 7.971997 9.415979e-05 0.01220161 0.07973787 48.12508 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+            <node id="ID103" name="spirea_leaf">
+                <matrix>0.01893599 0.05794803 -0.03955622 10.94382 -0.07016168 0.01568915 -0.01060327 7.823659 8.482864e-05 0.04095262 0.06003429 49.10278 0 0 0 1</matrix>
+                <instance_node url="#ID6" />
+            </node>
+        </node>
+    </library_nodes>
+    <library_geometries>
+        <geometry id="ID9">
+            <mesh>
+                <source id="ID12">
+                    <float_array id="ID18" count="66">7.484765 49.36845 17.15885 0.08746884 -0.03275813 -0.02405068 -0.04715299 76.90613 20.56474 14.16096 9.159485 9.897218 14.16096 9.159485 9.897218 7.484765 49.36845 17.15885 0.08746884 -0.03275813 -0.02405068 -0.04715299 76.90613 20.56474 14.16096 9.159485 9.897218 7.484765 49.36845 17.15885 0.08746884 -0.03275813 -0.02405068 -0.04715299 76.90613 20.56474 -8.850855 45.74638 19.16256 0.08746884 -0.03275813 -0.02405068 -13.75 10.18809 13.53202 -0.04715299 76.90613 20.56474 -0.04715299 76.90613 20.56474 -8.850855 45.74638 19.16256 0.08746884 -0.03275813 -0.02405068 -13.75 10.18809 13.53202 -8.850855 45.74638 19.16256 -13.75 10.18809 13.53202</float_array>
+                    <technique_common>
+                        <accessor count="22" source="#ID18" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID13">
+                    <float_array id="ID19" count="66">0.4553521 0.2308921 -0.8598507 0.4553521 0.2308921 -0.8598507 0.4553521 0.2308921 -0.8598507 0.4553521 0.2308921 -0.8598507 -0.4553521 -0.2308921 0.8598507 -0.4553521 -0.2308921 0.8598507 -0.4553521 -0.2308921 0.8598507 -0.4553521 -0.2308921 0.8598507 0 0 0 0 0 0 0 0 0 0 0 0 -0.6033945 0.2051565 -0.770601 -0.6033945 0.2051565 -0.770601 -0.6033945 0.2051565 -0.770601 -0.6033945 0.2051565 -0.770601 0.6033945 -0.2051565 0.770601 0.6033945 -0.2051565 0.770601 0.6033945 -0.2051565 0.770601 0.6033945 -0.2051565 0.770601 0 0 0 0 0 0</float_array>
+                    <technique_common>
+                        <accessor count="22" source="#ID19" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID14">
+                    <Name_array id="ID20" count="0" />
+                    <technique_common>
+                        <accessor count="0" source="#ID20" stride="1">
+                            <param name="skp_material" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="ID15">
+                    <input semantic="POSITION" source="#ID12" />
+                    <input semantic="NORMAL" source="#ID13" />
+                </vertices>
+                <triangles count="8" material="Material2">
+                    <input offset="0" semantic="VERTEX" source="#ID15" />
+                    <p>0 1 2 1 0 3 4 5 6 7 6 5 12 13 14 13 12 15 16 17 18 19 18 17</p>
+                </triangles>
+                <lines count="7" material="Material3">
+                    <input offset="0" semantic="VERTEX" source="#ID15" />
+                    <p>8 9 8 10 10 11 11 9 20 21 20 11 10 21</p>
+                </lines>
+            </mesh>
+        </geometry>
+        <geometry id="ID26">
+            <mesh>
+                <source id="ID27">
+                    <float_array id="ID31" count="63">2.924752 82.98562 124.6709 -2.92475 -0.7874074 -7.105427e-15 2.924752 -0.7874168 -7.105427e-15 -2.924749 82.98564 124.6709 -2.924749 82.98564 124.6709 2.924752 82.98562 124.6709 -2.92475 -0.7874074 -7.105427e-15 2.924752 -0.7874168 -7.105427e-15 -2.924749 82.98564 124.6709 -2.92475 -0.7874074 -7.105427e-15 2.924752 -0.7874168 -7.105427e-15 2.924752 82.98562 124.6709 -2.924749 149.2814 292.1549 2.924752 149.2814 292.1549 2.924752 149.2814 292.1549 -2.924749 149.2814 292.1549 2.924752 149.2814 292.1549 -2.924749 149.2814 292.1549 2.924752 182.4292 464.8728 2.924752 182.4292 464.8728 2.924752 182.4292 464.8728</float_array>
+                    <technique_common>
+                        <accessor count="21" source="#ID31" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID28">
+                    <float_array id="ID32" count="63">-2.505396e-06 -0.8850097 0.4655727 -1.997865e-06 -0.8300195 0.5577344 -1.997865e-06 -0.8300195 0.5577344 -2.505397e-06 -0.8850097 0.4655725 2.505397e-06 0.8850097 -0.4655725 2.505396e-06 0.8850097 -0.4655727 1.997865e-06 0.8300195 -0.5577344 1.997865e-06 0.8300195 -0.5577344 0 0 0 0 0 0 0 0 0 0 0 0 -3.114955e-06 -0.960149 0.2794885 -3.081451e-06 -0.960149 0.2794886 3.081451e-06 0.960149 -0.2794886 3.114955e-06 0.960149 -0.2794885 0 0 0 0 0 0 -6.23694e-06 -0.9820771 0.1884795 6.23694e-06 0.9820771 -0.1884795 0 0 0</float_array>
+                    <technique_common>
+                        <accessor count="21" source="#ID32" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID29">
+                    <Name_array id="ID33" count="0" />
+                    <technique_common>
+                        <accessor count="0" source="#ID33" stride="1">
+                            <param name="skp_material" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="ID30">
+                    <input semantic="POSITION" source="#ID27" />
+                    <input semantic="NORMAL" source="#ID28" />
+                </vertices>
+                <triangles count="10" material="Material2">
+                    <input offset="0" semantic="VERTEX" source="#ID30" />
+                    <p>0 1 2 1 0 3 4 5 6 7 6 5 0 12 3 12 0 13 14 5 15 4 15 5 18 12 13 14 15 19</p>
+                </triangles>
+                <lines count="9" material="Material3">
+                    <input offset="0" semantic="VERTEX" source="#ID30" />
+                    <p>8 9 9 10 10 11 11 8 11 16 16 17 17 8 16 20 20 17</p>
+                </lines>
+            </mesh>
+        </geometry>
+        <geometry id="ID34">
+            <mesh>
+                <source id="ID35">
+                    <float_array id="ID39" count="27">-2.924749 182.4293 464.8728 -2.924749 149.2814 292.1549 2.924752 182.4292 464.8728 2.924752 182.4292 464.8728 -2.924749 149.2814 292.1549 -2.924749 182.4293 464.8728 2.924752 182.4292 464.8728 -2.924749 149.2814 292.1549 -2.924749 182.4293 464.8728</float_array>
+                    <technique_common>
+                        <accessor count="9" source="#ID39" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID36">
+                    <float_array id="ID40" count="27">-6.303653e-06 -0.9820771 0.1884795 -3.114955e-06 -0.960149 0.2794885 -6.303653e-06 -0.9820771 0.1884795 6.303653e-06 0.9820771 -0.1884795 3.114955e-06 0.960149 -0.2794885 6.303653e-06 0.9820771 -0.1884795 0 0 0 0 0 0 0 0 0</float_array>
+                    <technique_common>
+                        <accessor count="9" source="#ID40" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID37">
+                    <Name_array id="ID41" count="0" />
+                    <technique_common>
+                        <accessor count="0" source="#ID41" stride="1">
+                            <param name="skp_material" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="ID38">
+                    <input semantic="POSITION" source="#ID35" />
+                    <input semantic="NORMAL" source="#ID36" />
+                </vertices>
+                <triangles count="2" material="Material2">
+                    <input offset="0" semantic="VERTEX" source="#ID38" />
+                    <p>0 1 2 3 4 5</p>
+                </triangles>
+                <lines count="3" material="Material3">
+                    <input offset="0" semantic="VERTEX" source="#ID38" />
+                    <p>6 7 6 8 8 7</p>
+                </lines>
+            </mesh>
+        </geometry>
+        <geometry id="ID59">
+            <mesh>
+                <source id="ID65">
+                    <float_array id="ID72" count="54">-1.042168 1.803089 2.576342 0.2493255 -2.191807 -1.367153 -3.299195 -0.5692055 0.1728646 1.974405 1.275661 2.113777 3.28184 -1.189964 -0.3097105 3.368809 0.2102772 1.083527 3.368809 0.2102772 1.083527 1.974405 1.275661 2.113777 3.28184 -1.189964 -0.3097105 0.2493255 -2.191807 -1.367153 -1.042168 1.803089 2.576342 -3.299195 -0.5692055 0.1728646 1.974405 1.275661 2.113777 3.368809 0.2102772 1.083527 3.28184 -1.189964 -0.3097105 0.2493255 -2.191807 -1.367153 -3.299195 -0.5692055 0.1728646 -1.042168 1.803089 2.576342</float_array>
+                    <technique_common>
+                        <accessor count="18" source="#ID72" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID66">
+                    <float_array id="ID73" count="54">0.01447293 0.7048058 -0.7092526 0.01447293 0.7048058 -0.7092526 0.01447293 0.7048058 -0.7092526 0.01447293 0.7048058 -0.7092526 0.01447293 0.7048058 -0.7092526 0.01447293 0.7048058 -0.7092526 -0.01447293 -0.7048058 0.7092526 -0.01447293 -0.7048058 0.7092526 -0.01447293 -0.7048058 0.7092526 -0.01447293 -0.7048058 0.7092526 -0.01447293 -0.7048058 0.7092526 -0.01447293 -0.7048058 0.7092526 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</float_array>
+                    <technique_common>
+                        <accessor count="18" source="#ID73" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID67">
+                    <Name_array id="ID75" count="0" />
+                    <technique_common>
+                        <accessor count="0" source="#ID75" stride="1">
+                            <param name="skp_material" type="Name" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="ID69">
+                    <float_array id="ID74" count="24">0.803259 0.74113 0.3310962 0.2057086 0.849856 0.239886 0.433175 0.8429519 0.08657644 0.5434264 0.1937207 0.7638058 0.1937207 0.7638058 0.433175 0.8429519 0.08657644 0.5434264 0.3310962 0.2057086 0.803259 0.74113 0.849856 0.239886</float_array>
+                    <technique_common>
+                        <accessor count="12" source="#ID74" stride="2">
+                            <param name="S" type="float" />
+                            <param name="T" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="ID68">
+                    <input semantic="POSITION" source="#ID65" />
+                    <input semantic="NORMAL" source="#ID66" />
+                </vertices>
+                <triangles count="8" material="Material2">
+                    <input offset="0" semantic="VERTEX" source="#ID68" />
+                    <input offset="1" semantic="TEXCOORD" source="#ID69" />
+                    <p>0 0 1 1 2 2 1 1 0 0 3 3 1 1 3 3 4 4 4 4 3 3 5 5 6 6 7 7 8 8 8 8 7 7 9 9 7 7 10 10 9 9 11 11 9 9 10 10</p>
+                </triangles>
+                <lines count="6" material="Material3">
+                    <input offset="0" semantic="VERTEX" source="#ID68" />
+                    <p>12 13 13 14 14 15 15 16 16 17 17 12</p>
+                </lines>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_materials>
+        <material id="ID10" name="material_2">
+            <instance_effect url="#ID11" />
+        </material>
+        <material id="ID16" name="edge_color9615057255">
+            <instance_effect url="#ID17" />
+        </material>
+        <material id="ID60" name="spireaspirea1">
+            <instance_effect url="#ID61" />
+        </material>
+        <material id="ID70" name="edge_color000255">
+            <instance_effect url="#ID71" />
+        </material>
+    </library_materials>
+    <library_effects>
+        <effect id="ID11">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <lambert>
+                        <diffuse>
+                            <color>0.3764706 0.5882353 0.2235294 1</color>
+                        </diffuse>
+                    </lambert>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID17">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <constant>
+                        <transparent opaque="A_ONE">
+                            <color>0.3764706 0.5882353 0.2235294 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </constant>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID61">
+            <profile_COMMON>
+                <newparam sid="ID63">
+                    <surface type="2D">
+                        <init_from>ID62</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="ID64">
+                    <sampler2D>
+                        <source>ID63</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="COMMON">
+                    <lambert>
+                        <diffuse>
+                            <texture texture="ID64" texcoord="UVSET0" />
+                        </diffuse>
+                        <transparent opaque="A_ONE">
+                            <texture texture="ID64" texcoord="UVSET0" />
+                        </transparent>
+                    </lambert>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="ID71">
+            <profile_COMMON>
+                <technique sid="COMMON">
+                    <constant>
+                        <transparent opaque="A_ONE">
+                            <color>0 0 0 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </constant>
+                </technique>
+            </profile_COMMON>
+        </effect>
+    </library_effects>
+    <library_images>
+        <image id="ID62">
+            <init_from>model/spireaspirea1.png</init_from>
+        </image>
+    </library_images>
+    <scene>
+        <instance_visual_scene url="#ID2" />
+    </scene>
+</COLLADA>
