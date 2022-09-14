@@ -238,3 +238,45 @@ Received Import Request.
   path: Assets/Resources/Materials/Web/Pavement textures pack
   artifactKey: Guid(01a03ba590a914864ab49347a724050a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Resources/Materials/Web/Pavement textures pack using Guid(01a03ba590a914864ab49347a724050a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8114f6f99ff41166ebc1d53d5dace413') in 0.000877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 488.702233 seconds.
+  path: Assets/TextMesh Pro/Resources
+  artifactKey: Guid(dc115d148f0764991b923b4f2441149e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources using Guid(dc115d148f0764991b923b4f2441149e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6d72c7bb9bf564ff6d31a4290316d9') in 0.002625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.160446 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b95b4c2a9b67a1b3b08a79aab403f964') in 1.626960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.588199 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials
+  artifactKey: Guid(ce7c8d53425fe4ee59ed0e83229bca99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials using Guid(ce7c8d53425fe4ee59ed0e83229bca99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0410e5e98decc9de4520ccdaf78dbeb0') in 0.001100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 98.137316 seconds.
+  path: Assets/Resources/Magic Kingdom Models/Web/Cinderella's+Castle-Picture/Castle_picture.dae
+  artifactKey: Guid(2122193ba642e401dbfb316dfb9f55df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Magic Kingdom Models/Web/Cinderella's+Castle-Picture/Castle_picture.dae using Guid(2122193ba642e401dbfb316dfb9f55df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d15ba70b9d799215818d355eb49492') in 1.093116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.778230 seconds.
+  path: Assets/Resources/Magic Kingdom Models/Web/Spirea/spirea.dae
+  artifactKey: Guid(3fab216568a534f99b1b58fa90129788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Magic Kingdom Models/Web/Spirea/spirea.dae using Guid(3fab216568a534f99b1b58fa90129788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6e1bae5e961a04a210a74ee64b52a9') in 0.198513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.626962 seconds.
+  path: Assets/Resources/Materials/Web/Pavement textures pack/pavement 05/normal.tga
+  artifactKey: Guid(39d3dcc278042be4c9fc30d1142a2b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Materials/Web/Pavement textures pack/pavement 05/normal.tga using Guid(39d3dcc278042be4c9fc30d1142a2b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471d4067f2f176c9ee1a6ee5fd6d0081') in 0.484982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.867382 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Textures/VirtualButtonPreview.png
+  artifactKey: Guid(dd8287d41aafb4b4bacd7e0ebf634a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Textures/VirtualButtonPreview.png using Guid(dd8287d41aafb4b4bacd7e0ebf634a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d5ff5859aba57e4804352e9edc70c2') in 0.336132 seconds 
