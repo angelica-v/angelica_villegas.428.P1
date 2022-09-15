@@ -3,6 +3,6 @@
 Welcome to my github
 
 
-# Pre - Requisites
+## Pre - Requisites
 
-# Installation Instructions
+## Installation Instructions
