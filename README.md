@@ -1,10 +1,13 @@
 # angelica_villegas.428.P1
 
-Welcome to CS 428 Project 1 - Around the World GitHub Documentation
+Welcome to CS 428 Project 1 - Around the World GitHub Documentation 
+
 Created by Angelica Villegas Salazar.
 
 ## Introduction
-This is a project for Virtual, Augmented and Mixed Reality. The goal was to create two designs of two distinct locations that could be projected onto two cubes. Each cube has five models on top (three models from the web, two models I created), one side that states the location temperature (in either Fahrenheit or Celsius), one side that states the current time at the location, the location name and a fourth side with a 1D model. If you flip the cube upside down and rightside up the lighting will change.
+This is a project for Virtual, Augmented and Mixed Reality taught by Professor Andy Johnson. 
+
+The goal was to create two designs of two distinct locations that could be projected onto two cubes. Each cube has five models on top (three models from the web, two models I created), one side that states the location temperature (in either Fahrenheit or Celsius), one side that states the current time at the location, the location name and a fourth side with a 1D model. If you flip the cube upside down and rightside up the lighting will change.
 
 For more information visit the [project website](https://sites.google.com/uic.edu/cs428-angelica/project-1).
 
