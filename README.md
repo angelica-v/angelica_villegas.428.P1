@@ -67,7 +67,7 @@ For more information visit the [project website](https://sites.google.com/uic.ed
         1. Paste this key in the **Global** section of the **Vuforia Configuration** window in the right hand menu in Unity
 1. In the **Project** folder in the bottom part of Unity in there is an **Assets** folder, which contains a *Scenes** folder
 1. In the **Scenes** folder there is a file named **ThemeParkCubes.unity**, drag it into the hieracy (not inside any scene) and delete the Default scene/cameras that are there. 
-1. Congratulations! If you open the Scene, under ARCamera you should see two models, MagicKingdom (Cube 1) and SuperNintendoWorld (Cube2). Print out the merge and  If you click the play you can now use AR to see the two cube designs on the physical cubes built.
+1. Congratulations! If you open the Scene, under ARCamera you should see two models, MagicKingdom (Cube 1) and SuperNintendoWorld (Cube 2). Print out the merge and class cube (found in the **CubesForVuforia** folder), assemble them and put them in front of the screen. When you click the play you can now use AR to see the two cube designs on the physical cubes built.
 
 
 If there are problems installing, ensure that the **com.ptc.vuforia.engine-10.9.3.tgz** is in the **Packages** folder
