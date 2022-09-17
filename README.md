@@ -7,7 +7,7 @@ Created by Angelica Villegas Salazar.
 ## Introduction
 This is a project for Virtual, Augmented and Mixed Reality taught by Professor Andy Johnson. 
 
-The goal was to create two designs of two distinct locations that could be projected onto two cubes. Each cube has five models on top (three models from the web, two models I created), one side that states the location temperature (in either Fahrenheit or Celsius), one side that states the current time at the location, the location name and a fourth side with a 1D model. If you flip the cube upside down and rightside up the lighting will change.
+The goal was to create two designs of two distinct locations that could be projected onto two cubes. Each cube has five models on top (three models from the web, two models I created), one side that states the location temperature (in either Fahrenheit or Celsius), one side that states the current time at the location, one side that states the location name and one side that I chose to add a 2D model. If you flip the cube upside down and rightside up the lighting will change.
 
 For more information visit the [project website](https://sites.google.com/uic.edu/cs428-angelica/project-1).
 
