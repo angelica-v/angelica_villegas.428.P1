@@ -11,7 +11,6 @@ The goal was to create two designs of two distinct locations that could be proje
 
 For more information visit the [project website](https://sites.google.com/uic.edu/cs428-angelica/project-1).
 
-## Project Features
 ## Software Requirements
 
 * Unity 
