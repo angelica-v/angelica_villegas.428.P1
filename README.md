@@ -50,7 +50,7 @@ For more information visit the [project website](https://sites.google.com/uic.ed
 
 1. Navigate to the [vuforia website](https://developer.vuforia.com/)
 1. Create an account then navigate to **Downloads** page 
-1. Download [Vuforia 10.9](https://developer.vuforia.com/downloads/sdk) via Unity Hub (It should be the first option ** Add Vuforia Engine to a Unity Project or upgrade to the latest version **)
+1. Download [Vuforia 10.9](https://developer.vuforia.com/downloads/sdk) via Unity Hub (It should be the first option **Add Vuforia Engine to a Unity Project or upgrade to the latest version**)
 1. Once the download is complete click to open the .unityPackage, this should open Unity Hub and download the Vuforia package
 
 ### Setting up project
