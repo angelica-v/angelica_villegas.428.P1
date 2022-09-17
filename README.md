@@ -56,7 +56,8 @@ For more information visit the [project website](https://sites.google.com/uic.ed
 ### Setting up project
 1. Click **Open** in the Unity **Projects** page and select the project folder where this project is saved to open it.
 1. It should spend some time processing and will open up the project
-1. You will need a Vuforia key to have the project work correctly:
+1. Once opne you may have to import Vuforia to do this go to **Assets** from there **Import Package** and then **Custom Package** you should be able to then import all the files required.  
+1. Additionally, you will need a Vuforia key to have the project work correctly:
     1. Go to the [Vuforia website](https://developer.vuforia.com/vui/develop/licenses)
         1. Create a Vuforia developer account
         1. Under the **Develop** tab ensure you are on the **License Manager** page
@@ -69,7 +70,9 @@ For more information visit the [project website](https://sites.google.com/uic.ed
 1. In the **Scenes** folder there is a file named **ThemeParkCubes.unity**, drag it into the hieracy (not inside any scene) and delete the Default scene/cameras that are there. 
 1. Congratulations! If you open the Scene, under ARCamera you should see two models, MagicKingdom (Cube 1) and SuperNintendoWorld (Cube2). Print out the merge and  If you click the play you can now use AR to see the two cube designs on the physical cubes built.
 
+
 If there are problems installing, ensure that the **com.ptc.vuforia.engine-10.9.3.tgz** is in the **Packages** folder
+
 
 You can find further information about Vuforia and Unity [here](https://library.vuforia.com/getting-started/getting-started-vuforia-engine-unity).
 
