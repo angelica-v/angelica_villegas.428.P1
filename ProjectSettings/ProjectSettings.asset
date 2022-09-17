@@ -560,7 +560,7 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: Vuforia needs access to the camera
+  cameraUsageDescription: Vuforia needs access to your  camera
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
